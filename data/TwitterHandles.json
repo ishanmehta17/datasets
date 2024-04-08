@@ -1,0 +1,22 @@
+{
+    "AZO" : ["autozone"],
+    "MSFT": ["Microsoft", "Windows"],
+    "TSLA": ["Tesla"],
+    "PLTR": ["PalantirTech"],
+    "LULU": ["lululemon"],
+    "FTNT": ["Fortinet", "FortinetPartner"],
+    "WM" : ["WasteManagement"],
+    "LRCX": ["LamResearch"],
+    "FDS": ["FactSet"],
+    "INTU": ["Intuit"],
+    "TTD": ["TheTradeDesk"],
+    "DDOG": ["datadoghq"],
+    "NVDA": ["nvidia"],
+    "NDAQ" : ["Nasdaq"],
+    "BLK": ["BlackRock"],
+    "ZTS": ["Zoetis"],
+    "TSCO": ["TractorSupply"],
+    "MU": ["MicronTech"],
+    "DUOL": ["duolingo"],
+    "AMAT": ["Applied4Tech"]
+}
