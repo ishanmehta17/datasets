@@ -21,5 +21,7 @@
     "AMAT": ["Applied4Tech"],
     "FAST": ["FastenalCompany"],
     "COST" : ["Costco", "costcocanada"],
-    "WMT" : ["Walmart"]
+    "WMT" : ["Walmart"],
+    "AMZN" : ["amazon"],
+    "NFLX" : ["netflix"]
 }
