@@ -1,7 +1,7 @@
 {
     "AZO" : ["autozone"],
     "MSFT": ["Microsoft", "Windows"],
-    "TSLA": ["Tesla"],
+    "TSLA": ["Tesla", "Tesla_AI", "Tesla_Optimus", "TeslaCharging", "teslaenergy", "teslaeurope", "woodhaus2"],
     "PLTR": ["PalantirTech"],
     "LULU": ["lululemon"],
     "FTNT": ["Fortinet", "FortinetPartner"],
@@ -23,5 +23,6 @@
     "COST" : ["Costco", "costcocanada"],
     "WMT" : ["Walmart"],
     "AMZN" : ["amazon"],
-    "NFLX" : ["netflix"]
+    "NFLX" : ["netflix"],
+    "MTN" : ["VailResorts"]
 }
