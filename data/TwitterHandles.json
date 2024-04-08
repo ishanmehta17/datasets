@@ -18,5 +18,8 @@
     "TSCO": ["TractorSupply"],
     "MU": ["MicronTech"],
     "DUOL": ["duolingo"],
-    "AMAT": ["Applied4Tech"]
+    "AMAT": ["Applied4Tech"],
+    "FAST": ["FastenalCompany"],
+    "COST" : ["Costco", "costcocanada"],
+    "WMT" : ["Walmart"]
 }
