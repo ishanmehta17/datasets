@@ -24,5 +24,7 @@
     "WMT" : ["Walmart"],
     "AMZN" : ["amazon"],
     "NFLX" : ["netflix"],
-    "MTN" : ["VailResorts"]
+    "MTN" : ["VailResorts"],
+    "CCJ" : ["cameconews"]
+}
 }
