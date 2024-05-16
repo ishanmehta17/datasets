@@ -25,6 +25,8 @@
     "AMZN" : ["amazon"],
     "NFLX" : ["netflix"],
     "MTN" : ["VailResorts"],
-    "CCJ" : ["cameconews"]
-}
+    "CCJ" : ["cameconews"],
+    "KLAC": ["KLAcorp"],
+    "MNST": ["MonsterEnergy"],
+    "CTAS": ["CintasCorp"]
 }
