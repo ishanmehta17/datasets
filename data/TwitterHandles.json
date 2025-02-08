@@ -28,5 +28,15 @@
     "CCJ" : ["cameconews"],
     "KLAC": ["KLAcorp"],
     "MNST": ["MonsterEnergy"],
-    "CTAS": ["CintasCorp"]
+    "CTAS": ["CintasCorp"],
+    "HIMS" : ["wearehims", "wearehers"],
+    "COKE" : ["CokeCCBCC"],
+    "DHR" : ["DanaherCorp"],
+    "ATKR" : ["Atkore_Inc"],
+    "DECK" : ["decker_sports"],
+    "CMG": ["ChipotleTweets"],
+    "CDNS": ["Cadence"],
+    "CAVA" : ["cava"],
+    "SOFI" : ["SoFi"],
+    "ZS" : ["zscaler"]
 }
